@@ -8,4 +8,6 @@ I can do
 
 - sleeping
 - eating
+- playing
+- day-dreaming
  
