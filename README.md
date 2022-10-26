@@ -6,6 +6,6 @@ Hello guys, this is Reno
 
 I can do
 
--sleeping
--eating
+- sleeping
+- eating
  
