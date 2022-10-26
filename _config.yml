@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Reno Li
-description: Hello! This is Reno's personal website
+description: Reno's personal website
 show_downloads: ["true"]
